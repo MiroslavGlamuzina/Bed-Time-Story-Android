@@ -1,6 +1,6 @@
 # Bed-Time-Story
 <p>
-Bed Time Story is Google Cardboard survival based game developed by me overnight as part of a Google Cardboard virtual reality competition hosted by Archiact Interactive (Creators of Lamper VR). My first encounter with Google Cardboard and Unity.</p>
+Bed Time Story is Google Cardboard survival based game developed by me overnight as part of a Google Cardboard virtual reality competition hosted by Archiact Interactive (Creators of Lamper VR).</p><p> My first encounter with Google Cardboard and Unity.</p>
 
 <p>
 Graphics and gameplay based off of the Unity tutorials.
